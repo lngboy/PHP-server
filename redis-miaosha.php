@@ -1,3 +1,4 @@
+//php-pcntl模块下的：
 
 pcntl_signal(SIGCHLD, SIG_IGN);
  
